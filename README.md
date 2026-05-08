@@ -140,17 +140,6 @@ The model can detect masked and unmasked faces in real time using transfer learn
 ---
 ---
 
-## Screenshots
-
-Add screenshots or demo GIFs here.
-
-Example:
-
-```text
-screenshots/demo.png
-```
-
----
 
 ## Contributing
 
